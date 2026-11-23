@@ -52,7 +52,7 @@ Anotad lo que podáis verificar. Si no se distingue, escribid «no identificado�
 |---|---|---|
 | Placa base | Gigabyte GA-B85M-DS3H (rev. 3.0) | Socket LGA1150, micro-ATX, UEFI DualBIOS, salidas VGA / DVI / HDMI, 4 ranuras DIMM, pila de botón CMOS |
 | Procesador | Intel Celeron G1840 (SR1VK) | 2,80 GHz, socket LGA1150 |
-| RAM | Crucial (módulo DIMM) | Capacidad no legible en las fotos: no identificado |
+| RAM | Crucial (modelo no identificado) | 2 GB, DDR3, 1333 MHz, formato DIMM |
 | Almacenamiento | WD Blue WD5000AAKX-00ERMA0 | 500 GB, SATA, 16 MB de caché, 3,5", fabricado el 07/12/2014 |
 | Fuente | Modelo IP-S300EF7-2 H (marca no identificada) | 300 W; +3,3 V/18 A, +5 V/18 A, +12 V/18 A, –12 V/0,3 A, +5 VSB/2 A |
 | Disipador / ventilador | Intel original, ref. E97379-001 (CNFN4344V2), Foxconn | 12 V, 0,17 A, conector de 4 pines |
@@ -289,7 +289,7 @@ La IA identificó los componentes (placa Gigabyte GA-B85M-DS3H, Intel Celeron G1
 
 **Fuente técnica o prueba utilizada y resultado:** confirmada / corregida / no verificada.
 
-Confirmada con las etiquetas visibles en las fotos (`montaje-05-cpu-g1840.jpg`, `montaje-12-disco-etiqueta.jpg`, `montaje-14-fuente-etiqueta.jpg`, `montaje-16-placa-base.jpg`). La capacidad de la RAM y la marca de la fuente no se leen en las fotos, por eso figuran como «no identificado». No se comprobó con ningún programa porque el equipo A no se arrancó con Linux.
+Confirmada con las etiquetas visibles en las fotos (`montaje-05-cpu-g1840.jpg`, `montaje-12-disco-etiqueta.jpg`, `montaje-14-fuente-etiqueta.jpg`, `montaje-16-placa-base.jpg`). Los datos de la RAM se completaron con la ficha de taller: Crucial, 2 GB, DDR3 a 1333 MHz y formato DIMM. La marca de la fuente no se lee en las fotos, por eso figura como «no identificado». No se comprobó con ningún programa porque el equipo A no se arrancó con Linux.
 
 ## 15. Valoración y entrega
 
