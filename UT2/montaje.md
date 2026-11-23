@@ -73,53 +73,71 @@ Identificad y marcad las conexiones presentes y comprobadas:
 
 No había cables sueltos ni conectores dañados. El conector del panel frontal se identificó con el serigrafiado de la placa (F_PANEL).
 
-**Fotografías de referencia (nombre de archivo o ubicación):**
+**Fotografías del montaje:**
 
-Todas están en la carpeta `img/` de este repositorio (`Curso_26_27-SI/UT2/img/`).
+Las fotos de la práctica están en la carpeta `img/`.
 
-*Estado inicial*
+![Foto 1 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.27%20%281%29.jpeg)
 
-![montaje-01-caja-trasera.jpg: parte trasera de la caja Dominion](img/montaje-01-caja-trasera.jpg)
+![Foto 2 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.27%20%282%29.jpeg)
 
-![montaje-02-interior-inicial.jpg: interior al abrir el equipo](img/montaje-02-interior-inicial.jpg)
+![Foto 3 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.27%20%283%29.jpeg)
 
-*Conexiones del panel frontal*
+![Foto 4 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.27%20%284%29.jpeg)
 
-![montaje-03-panel-frontal.jpg: cables del panel frontal en F_PANEL](img/montaje-03-panel-frontal.jpg)
+![Foto 5 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.27.jpeg)
 
-*Piezas desmontadas*
+![Foto 6 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.28%20%281%29.jpeg)
 
-![montaje-04-piezas-desmontadas.jpg: piezas organizadas sobre la mesa](img/montaje-04-piezas-desmontadas.jpg)
+![Foto 7 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.28.jpeg)
 
-![montaje-16-placa-base.jpg: placa base Gigabyte GA-B85M-DS3H fuera de la caja](img/montaje-16-placa-base.jpg)
+![Foto 8 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.37%20%281%29.jpeg)
 
-*Componentes (etiquetas)*
+![Foto 9 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.37%20%282%29.jpeg)
 
-![montaje-12-disco-etiqueta.jpg: etiqueta del disco WD Blue 500 GB](img/montaje-12-disco-etiqueta.jpg)
+![Foto 10 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.37%20%283%29.jpeg)
 
-![montaje-13-disco-reverso.jpg: cara inferior del disco con su placa](img/montaje-13-disco-reverso.jpg)
+![Foto 11 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.37%20%284%29.jpeg)
 
-![montaje-14-fuente-etiqueta.jpg: etiqueta de la fuente IP-S300EF7-2 H](img/montaje-14-fuente-etiqueta.jpg)
+![Foto 12 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.37%20%285%29.jpeg)
 
-![montaje-15-tarjeta-wifi.jpg: tarjeta WiFi PCIe de 300 Mbps](img/montaje-15-tarjeta-wifi.jpg)
+![Foto 13 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.37%20%286%29.jpeg)
 
-*Procesador y disipador*
+![Foto 14 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.37%20%287%29.jpeg)
 
-![montaje-05-cpu-g1840.jpg: procesador Intel Celeron G1840](img/montaje-05-cpu-g1840.jpg)
+![Foto 15 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.37.jpeg)
 
-![montaje-06-socket-vacio.jpg: socket LGA1150 vacío](img/montaje-06-socket-vacio.jpg)
+![Foto 16 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%281%29.jpeg)
 
-![montaje-07-disipador-intel.jpg: disipador Intel con ventilador de 4 pines](img/montaje-07-disipador-intel.jpg)
+![Foto 17 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%2810%29.jpeg)
 
-![montaje-08-placa-con-disipador.jpg: disipador montado de nuevo con pasta térmica renovada](img/montaje-08-placa-con-disipador.jpg)
+![Foto 18 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%282%29.jpeg)
 
-*Remontaje y cierre*
+![Foto 19 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%283%29.jpeg)
 
-![montaje-09-remontaje-con-fuente.jpg: placa y fuente montadas en la caja](img/montaje-09-remontaje-con-fuente.jpg)
+![Foto 20 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%284%29.jpeg)
 
-![montaje-10-disco-reinstalado.jpg: disco reinstalado en su bandeja](img/montaje-10-disco-reinstalado.jpg)
+![Foto 21 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%285%29.jpeg)
 
-![montaje-11-equipo-cerrado.jpg: equipo cerrado al terminar](img/montaje-11-equipo-cerrado.jpg)
+![Foto 22 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%286%29.jpeg)
+
+![Foto 23 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%287%29.jpeg)
+
+![Foto 24 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%288%29.jpeg)
+
+![Foto 25 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38%20%289%29.jpeg)
+
+![Foto 26 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.38.jpeg)
+
+![Foto 27 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.39%20%281%29.jpeg)
+
+![Foto 28 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.39%20%282%29.jpeg)
+
+![Foto 29 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.39%20%283%29.jpeg)
+
+![Foto 30 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.39%20%284%29.jpeg)
+
+![Foto 31 de la práctica](img/WhatsApp%20Image%202026-11-20%20at%2021.25.39.jpeg)
 
 No retiréis la CPU ni el disipador sin indicación del profesor. Si se retira el disipador, consultad sobre limpieza y pasta térmica antes de volver a instalarlo.
 
