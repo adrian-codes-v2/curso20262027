@@ -1,0 +1,42 @@
+name: Ordenar fotos de UT2
+on:
+  push:
+    paths:
+      - '.github/workflows/ordenar-fotos-ut2.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  ordenar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Mover fotos y actualizar enlaces
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import subprocess
+          from urllib.parse import quote
+          base = Path('UT2')
+          destino = base / 'img'
+          destino.mkdir(exist_ok=True)
+          for foto in sorted(base.glob('WhatsApp Image *.jpeg')):
+              subprocess.run(['git', 'mv', str(foto), str(destino / foto.name)], check=True)
+          fotos = sorted(destino.glob('WhatsApp Image *.jpeg'))
+          if not fotos:
+              raise SystemExit('No se encontraron fotos; no se cambia el documento.')
+          md = base / 'montaje.md'
+          texto = md.read_text()
+          inicio = texto.index('**Fotografías de referencia (nombre de archivo o ubicación):**')
+          fin = texto.index('No retiréis la CPU ni el disipador', inicio)
+          galeria = '**Fotografías del montaje:**\n\nLas fotos de la práctica están en la carpeta `img/`.\n\n'
+          galeria += '\n\n'.join(f'![Foto {i} de la práctica](img/{quote(f.name, safe="")})' for i, f in enumerate(fotos, 1))
+          md.write_text(texto[:inicio] + galeria + '\n\n' + texto[fin:])
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add UT2
+          if ! git diff --cached --quiet; then
+            git commit -m 'Ordenar fotos en UT2/img y enlazarlas en montaje'
+            git push
+          fi
